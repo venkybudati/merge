@@ -13,7 +13,7 @@ for i in n:
     print(i)
 
 
-
+..
 
 a= "Hello"
 r= ''
